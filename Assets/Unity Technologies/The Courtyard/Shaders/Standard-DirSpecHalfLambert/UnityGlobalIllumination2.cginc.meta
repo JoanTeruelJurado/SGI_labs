@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 442145285f02d8b41b251c462bd33691
+timeCreated: 1439979889
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/Standard-DirSpecHalfLambert/UnityGlobalIllumination2.cginc
+  uploadId: 563299

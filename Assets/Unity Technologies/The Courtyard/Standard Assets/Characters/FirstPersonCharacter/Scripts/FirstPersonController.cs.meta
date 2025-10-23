@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05ec5cf00ca181d45a42ba1870e148c3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+  uploadId: 563299

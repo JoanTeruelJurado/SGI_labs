@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3c1c25246290e3042b008a26f21afe07
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/MoBlur/MotionBlur_StaticVelocity.shader
+  uploadId: 563299

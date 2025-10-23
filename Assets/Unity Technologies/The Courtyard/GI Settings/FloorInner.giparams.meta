@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d71f320aec79e184ea0921f15c100234
+timeCreated: 1440603777
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/GI Settings/FloorInner.giparams
+  uploadId: 563299

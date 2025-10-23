@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 079834a268161614ca4e36f431c5ef4b
+timeCreated: 1442332512
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Military Box/Materials/militarybox.mat
+  uploadId: 563299

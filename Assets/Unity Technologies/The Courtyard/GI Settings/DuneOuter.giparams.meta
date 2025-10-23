@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bc1a2636fa34524b9535b61b995a663
+timeCreated: 1440584234
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/GI Settings/DuneOuter.giparams
+  uploadId: 563299

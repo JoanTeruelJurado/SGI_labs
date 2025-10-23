@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c672c605bfec55c49a13267a6408e115
+timeCreated: 1440335794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V08/Materials/CorridorHole.mat
+  uploadId: 563299

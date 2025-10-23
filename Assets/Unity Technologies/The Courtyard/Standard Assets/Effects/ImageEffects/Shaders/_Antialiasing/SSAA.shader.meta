@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b3728d1488b02490cbd196c7941bf1f8
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader
+  uploadId: 563299

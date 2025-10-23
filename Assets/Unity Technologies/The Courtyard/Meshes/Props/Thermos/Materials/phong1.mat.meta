@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8029e34b3dab1d5419a0e8a9177f9336
+timeCreated: 1441807971
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Thermos/Materials/phong1.mat
+  uploadId: 563299

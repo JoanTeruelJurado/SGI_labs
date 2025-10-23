@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d65abc04b84c66e4b8eaceb5755d17d7
+timeCreated: 1442332512
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Solar Case Hinged/Materials/Solar_Texture.mat
+  uploadId: 563299

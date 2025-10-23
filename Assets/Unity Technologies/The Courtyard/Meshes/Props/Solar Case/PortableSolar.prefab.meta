@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c4acd5167308e84f9f7440af51a7385
+timeCreated: 1441811508
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Solar Case/PortableSolar.prefab
+  uploadId: 563299

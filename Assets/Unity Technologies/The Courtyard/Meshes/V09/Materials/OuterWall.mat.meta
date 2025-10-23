@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7ffc7562b12e054882a515013384055
+timeCreated: 1444223742
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V09/Materials/OuterWall.mat
+  uploadId: 563299

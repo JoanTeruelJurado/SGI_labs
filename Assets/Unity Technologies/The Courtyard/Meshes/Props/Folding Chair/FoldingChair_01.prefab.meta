@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41fa4e85653d11a43a67db9449aef001
+timeCreated: 1442333348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Folding Chair/FoldingChair_01.prefab
+  uploadId: 563299

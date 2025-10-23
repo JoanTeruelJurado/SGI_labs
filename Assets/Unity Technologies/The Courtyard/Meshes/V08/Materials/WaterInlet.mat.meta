@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2cb3beb480bfae4fb7b923bc2aa6f54
+timeCreated: 1439485051
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V08/Materials/WaterInlet.mat
+  uploadId: 563299

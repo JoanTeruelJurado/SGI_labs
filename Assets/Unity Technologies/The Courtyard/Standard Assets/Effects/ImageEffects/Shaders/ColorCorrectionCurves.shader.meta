@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 62bcade1028c24ca1a39760ed84b9487
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+  uploadId: 563299

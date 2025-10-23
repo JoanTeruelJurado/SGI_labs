@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f19108706fdce9469603d07980eb8ad
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {instanceID: 0}
+  - overlayShader: {fileID: 4800000, guid: 8c81db0e527d24acc9bcec04e87781bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs
+  uploadId: 563299

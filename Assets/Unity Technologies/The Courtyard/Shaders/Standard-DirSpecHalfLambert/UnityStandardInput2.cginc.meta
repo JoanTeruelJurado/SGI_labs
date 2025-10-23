@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f10b146d1d34a03448a72097e837f3c5
+timeCreated: 1439979889
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/Standard-DirSpecHalfLambert/UnityStandardInput2.cginc
+  uploadId: 563299

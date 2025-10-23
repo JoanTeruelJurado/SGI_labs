@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8b30686bb4322ab42ad5eb50a0210b58
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader
+  uploadId: 563299

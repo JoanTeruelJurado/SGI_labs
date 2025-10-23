@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1e4cb82655b4fe42aaf68cd05206315
+timeCreated: 1440754142
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/Skybox-ProceduralWithCubemap.shader
+  uploadId: 563299

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10c34642c6660244e8c58d923069957c
+timeCreated: 1441807972
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Portable Heater/Materials/Main.mat
+  uploadId: 563299

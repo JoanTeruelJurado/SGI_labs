@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42e7f46d0e5a84171a3909479c1646ba
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs
+  uploadId: 563299

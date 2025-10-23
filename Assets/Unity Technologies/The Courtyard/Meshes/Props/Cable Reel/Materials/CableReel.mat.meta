@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1263cbcf1ddfc941bb4667f5dbb0286
+timeCreated: 1441875796
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Cable Reel/Materials/CableReel.mat
+  uploadId: 563299

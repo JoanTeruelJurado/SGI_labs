@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 548154f398d65d34fb07eb561116684b
+timeCreated: 1441893999
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Crates/Materials/Crate3.mat
+  uploadId: 563299

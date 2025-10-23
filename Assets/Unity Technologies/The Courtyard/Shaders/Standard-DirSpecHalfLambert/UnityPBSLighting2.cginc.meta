@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3966cd2290b2324496a512e3203793e
+timeCreated: 1439979889
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/Standard-DirSpecHalfLambert/UnityPBSLighting2.cginc
+  uploadId: 563299

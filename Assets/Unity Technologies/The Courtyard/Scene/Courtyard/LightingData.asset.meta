@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 119b123f9bf16c14eba2b704afab1e87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Scene/Courtyard/LightingData.asset
+  uploadId: 563299

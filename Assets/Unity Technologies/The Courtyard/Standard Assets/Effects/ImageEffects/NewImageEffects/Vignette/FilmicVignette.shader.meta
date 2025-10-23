@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0243e6e7f79949de91634f9fdcb1f18
+timeCreated: 1430759138
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/NewImageEffects/Vignette/FilmicVignette.shader
+  uploadId: 563299

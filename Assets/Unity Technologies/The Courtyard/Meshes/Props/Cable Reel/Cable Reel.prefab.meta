@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc73cc3a0295c914e80261d5ce0cb815
+timeCreated: 1441876306
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Cable Reel/Cable
+    Reel.prefab
+  uploadId: 563299

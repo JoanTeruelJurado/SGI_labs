@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 594cfce749d0cc449b043951edf39bf5
+timeCreated: 1439197579
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/GI Settings/Dunes.giparams
+  uploadId: 563299

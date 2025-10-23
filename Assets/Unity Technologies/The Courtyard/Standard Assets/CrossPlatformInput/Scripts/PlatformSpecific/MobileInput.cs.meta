@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9703d53e47195aa4190acd11369ccd1b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+  uploadId: 563299

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cdf9b3a58d09ea44bb7dc754154d0c9
+timeCreated: 1446731407
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Military Box/Materials/MilitaryBox_map1_color.mat
+  uploadId: 563299

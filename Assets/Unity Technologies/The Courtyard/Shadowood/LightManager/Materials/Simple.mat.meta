@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4b504004e796914e9e576adf05807af
+timeCreated: 1440677520
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shadowood/LightManager/Materials/Simple.mat
+  uploadId: 563299

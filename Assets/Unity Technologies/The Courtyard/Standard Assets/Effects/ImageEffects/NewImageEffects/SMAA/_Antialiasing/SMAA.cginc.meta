@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 544c060ad7dce074890288fc43eaf1d0
+timeCreated: 1432609007
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/NewImageEffects/SMAA/_Antialiasing/SMAA.cginc
+  uploadId: 563299

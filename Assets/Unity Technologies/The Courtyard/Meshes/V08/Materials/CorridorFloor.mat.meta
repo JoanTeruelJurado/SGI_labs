@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05752a042978f484b9d7058fd2b87309
+timeCreated: 1439047011
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V08/Materials/CorridorFloor.mat
+  uploadId: 563299

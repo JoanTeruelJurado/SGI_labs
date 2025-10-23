@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4aea55fe20e21a547be64e5e8b79ca4e
+timeCreated: 1445368031
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V08/Materials/Column2-Flip.mat
+  uploadId: 563299

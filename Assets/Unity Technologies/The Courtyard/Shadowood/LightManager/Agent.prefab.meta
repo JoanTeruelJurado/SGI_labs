@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bb41ac330fe50d4b95b2393cf94ae5b
+timeCreated: 1442003751
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shadowood/LightManager/Agent.prefab
+  uploadId: 563299

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1bbfafbde15c854681023b9e01e12dd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Utility/LerpControlledBob.cs
+  uploadId: 563299

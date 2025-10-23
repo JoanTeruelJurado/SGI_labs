@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ee577745eb49ac341b4713e61062c692
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/MoBlur/MotionBlur_TileMax.shader
+  uploadId: 563299

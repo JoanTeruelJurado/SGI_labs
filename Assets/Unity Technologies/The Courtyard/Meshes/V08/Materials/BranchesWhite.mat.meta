@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad7a9b045dcb8454db1814a55de0ecfb
+timeCreated: 1439732650
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V08/Materials/BranchesWhite.mat
+  uploadId: 563299

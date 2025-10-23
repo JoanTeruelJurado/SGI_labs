@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bc549bab12492a4db2154e953c8efae
+timeCreated: 1441807971
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Fuel Container
+    Yellow/Materials/phong2.mat
+  uploadId: 563299

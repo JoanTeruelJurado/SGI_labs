@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69b69a5b0e0a85b4aa97a7edc40c37d1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Utility/SimpleActivatorMenu.cs
+  uploadId: 563299

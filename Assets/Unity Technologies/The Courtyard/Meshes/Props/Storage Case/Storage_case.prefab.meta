@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 331d76fbc8755d341928d34520c7493d
+timeCreated: 1441806572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Storage Case/Storage_case.prefab
+  uploadId: 563299

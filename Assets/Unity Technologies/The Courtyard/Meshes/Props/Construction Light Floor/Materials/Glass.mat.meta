@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3264c429962ad2d45b3ad7a32cd1e48d
+timeCreated: 1440516645
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Construction Light
+    Floor/Materials/Glass.mat
+  uploadId: 563299

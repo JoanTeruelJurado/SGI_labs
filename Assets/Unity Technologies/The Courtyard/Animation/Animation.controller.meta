@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72b671810d0de9142b5768b70f7b7678
+timeCreated: 1442248299
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Animation/Animation.controller
+  uploadId: 563299

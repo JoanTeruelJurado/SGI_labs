@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0aeaa4cb29f5d4e9c8455f04c8575c8c
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+  uploadId: 563299

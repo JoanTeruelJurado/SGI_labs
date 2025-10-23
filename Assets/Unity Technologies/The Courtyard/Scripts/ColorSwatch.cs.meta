@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 64fda57fb455fe549a742bd926ca5435
+timeCreated: 1441978701
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Scripts/ColorSwatch.cs
+  uploadId: 563299

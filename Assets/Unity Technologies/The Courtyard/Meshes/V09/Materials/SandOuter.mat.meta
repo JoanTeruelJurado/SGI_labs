@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43270947efd873f458443c8a07771b2b
+timeCreated: 1444052861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V09/Materials/SandOuter.mat
+  uploadId: 563299

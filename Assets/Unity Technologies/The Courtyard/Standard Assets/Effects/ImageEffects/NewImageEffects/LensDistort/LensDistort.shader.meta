@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bac8dd9062ad74d27a6abe4cc6a24df2
+timeCreated: 1430435096
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Effects/ImageEffects/NewImageEffects/LensDistort/LensDistort.shader
+  uploadId: 563299

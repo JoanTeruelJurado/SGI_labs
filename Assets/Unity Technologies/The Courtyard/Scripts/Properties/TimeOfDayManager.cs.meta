@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3488dfaf4572fc046a92af7516f464cf
+timeCreated: 1442440219
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Scripts/Properties/TimeOfDayManager.cs
+  uploadId: 563299

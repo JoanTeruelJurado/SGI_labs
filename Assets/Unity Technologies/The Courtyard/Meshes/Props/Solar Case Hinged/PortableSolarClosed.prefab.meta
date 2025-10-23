@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8de60476fd4dbf44aa802f85b31158a
+timeCreated: 1442340000
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Solar Case Hinged/PortableSolarClosed.prefab
+  uploadId: 563299

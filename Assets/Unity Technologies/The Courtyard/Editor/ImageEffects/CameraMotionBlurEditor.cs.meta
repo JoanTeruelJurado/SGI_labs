@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80cbbe1c107bf5e43a96347d3dfc2658
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Editor/ImageEffects/CameraMotionBlurEditor.cs
+  uploadId: 563299

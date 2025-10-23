@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 972c3590a49d79c4badc09e639f502d6
+timeCreated: 1440787775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Construction Light/Materials/StandingLight_Base_BlobAmbient_Occlusion
+    1.mat
+  uploadId: 563299

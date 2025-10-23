@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0322e109b4344394875e5e32778f622
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 85f3b20a69d5244a5978eb9a5fba5691, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Unity Technologies/The Courtyard/Textures/Concrete_01.sbsar
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Textures/Concrete_01.sbsar
+  uploadId: 563299

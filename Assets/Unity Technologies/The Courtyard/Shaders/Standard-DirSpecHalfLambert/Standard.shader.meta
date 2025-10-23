@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d233dbffb98b574ba11424c469dcdbc
+timeCreated: 1439979890
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/Standard-DirSpecHalfLambert/Standard.shader
+  uploadId: 563299

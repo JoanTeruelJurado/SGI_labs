@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: edcb2c72a9cd0c14e8135c20565a4d7f
+timeCreated: 1440611171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Construction Light
+    Floor/Construction Light Floor.prefab
+  uploadId: 563299

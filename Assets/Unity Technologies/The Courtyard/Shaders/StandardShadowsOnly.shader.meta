@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 71a548f09ccb7d745992a8310d21dfd7
+timeCreated: 1446033954
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Shaders/StandardShadowsOnly.shader
+  uploadId: 563299

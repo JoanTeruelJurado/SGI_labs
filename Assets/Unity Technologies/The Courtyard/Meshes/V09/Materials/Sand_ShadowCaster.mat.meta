@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 111231ec44e9aee42945d60938f19a5b
+timeCreated: 1446033520
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/V09/Materials/Sand_ShadowCaster.mat
+  uploadId: 563299

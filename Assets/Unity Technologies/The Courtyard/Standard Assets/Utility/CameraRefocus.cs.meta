@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1e2e7a54dcc8694ab1eca46d072f264
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Standard Assets/Utility/CameraRefocus.cs
+  uploadId: 563299

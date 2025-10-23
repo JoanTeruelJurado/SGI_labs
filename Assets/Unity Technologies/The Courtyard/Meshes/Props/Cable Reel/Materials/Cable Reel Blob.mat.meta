@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76b8b3a95fde39d45ad97ec579edf0ac
+timeCreated: 1441894383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49377
+  packageName: The Courtyard
+  packageVersion: 1.6.0
+  assetPath: Assets/Unity Technologies/The Courtyard/Meshes/Props/Cable Reel/Materials/Cable
+    Reel Blob.mat
+  uploadId: 563299
