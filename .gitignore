@@ -1,0 +1,14 @@
+.utmp
+.vs
+.vsconfig
+App.apk
+App.zip
+App_BackUpThisFolder_ButDontShipItWithYourGame
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library
+Logs
+Temp
+SGI_VR_BurstDebugInformation_DoNotShip
+build
+SGI_labs_BurstDebugInformation_DoNotShip
