@@ -35,19 +35,21 @@ public class SliceObject : MonoBehaviour
 
         if(hull != null) {
             GameObject upperHull = hull.CreateUpperHull(target, CrossSectionMaterial);
-            SetupSlocedComponent(upperHull);
+            SetupSlocedComponent(upperHull, target.layer);
 
             GameObject lowerHull = hull.CreateLowerHull(target, CrossSectionMaterial);
-            SetupSlocedComponent(lowerHull);
+            SetupSlocedComponent(lowerHull, target.layer);
 
             Destroy(target);
         }
     }
 
-    public void SetupSlocedComponent(GameObject slicedObject) {
+    public void SetupSlocedComponent(GameObject slicedObject, int layer) {
         Rigidbody rb = slicedObject.AddComponent<Rigidbody>();
         MeshCollider collider = slicedObject.AddComponent<MeshCollider>();
         collider.convex = true;
         rb.AddExplosionForce(cutForce, slicedObject.transform.position, 1);
+        slicedObject.layer = layer;
+        Destroy(slicedObject, 10);
     }
 }
