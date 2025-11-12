@@ -27,6 +27,12 @@ public class SliceObject : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter(Collider other) {
+        if (((1 << other.gameObject.layer) & sliceableLayer) != 0) {
+            Slice(other.gameObject);
+        }
+    }
+
     public void Slice(GameObject target) {
         Vector3 velocity = velocityEstimator.GetVelocityEstimate();
         Vector3 planeNormal = Vector3.Cross(EndSlicePoint.position - StartSlicePoint.position, velocity);
