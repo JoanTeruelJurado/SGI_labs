@@ -1,3 +1,6 @@
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
+using Meta.XR;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -7,6 +10,8 @@ public class GameController : MonoBehaviour
     public static GameController Instance; // Singleton
 
     [Header("Gameplay Settings")]
+    [SerializeField] private string TutorialScene = "Game"; // Cambia por el nombre exacto
+    [SerializeField] private string GameScene = "Tutorial";     // Tag del punto de spawn
     [SerializeField] private List<GameObject> fruitPrefabs;     // Lista de prefabs de frutas
     [SerializeField] private List<Transform> spawnPoints;       // Lista de puntos de spawn
     [SerializeField] private float minLaunchForce = 10f;        // Fuerza mínima
@@ -14,10 +19,13 @@ public class GameController : MonoBehaviour
     [SerializeField] private float spawnInterval = 1.5f;        // Tiempo entre spawns
     [SerializeField] private VRHUDManager hudmanager;
     [SerializeField] private GameObject StartGamePanel;
+    [SerializeField] private GameObject SettingMenu;
 
+    private bool menuopen = false; 
     private int score = 0;
     private float timer = 0f;
     private bool gameStarted = false; // Control de inicio
+    private InputAction bButtonAction;
 
     void Awake()
     {
@@ -25,7 +33,12 @@ public class GameController : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
+            menuopen = false; 
             DontDestroyOnLoad(gameObject);
+            SettingMenu.SetActive(false);
+            bButtonAction = new InputAction("BButton", binding: "<XRController>{RightHand}/secondaryButton");
+            bButtonAction.performed += ctx => toggleMenu();
+            bButtonAction.Enable();
         }
         else
         {
@@ -39,6 +52,26 @@ public class GameController : MonoBehaviour
         CancelInvoke(nameof(SpawnFruit));
     }
 
+    public void GoGame() {
+        // Carga la escena
+        SceneManager.LoadScene(GameScene);
+    }
+
+    public void GoTutorial() {
+        // Carga la escena
+        SceneManager.LoadScene(TutorialScene);
+    }
+
+    void toggleMenu() {
+        if (menuopen) {
+            SettingMenu.SetActive(false);
+            menuopen = false;
+        }
+        else  {
+            SettingMenu.SetActive(true);
+            menuopen = true;
+        }
+    }
     void Update()
     {
         // Solo cuenta tiempo si el juego ha empezado

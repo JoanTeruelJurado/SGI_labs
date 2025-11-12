@@ -9,30 +9,33 @@ EditorUserSettings:
       value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b1646bbaa962b9b76b6b6a6d5abb6f536b1c73b01a001bf30703051428e8021dcb090314eb19c81f8a455ee90c15c2d950f8ed97cb
       flags: 0
     RecentlyUsedSceneGuid-0:
-      value: 02570d5301510f5e5e0b0a7b41770d44404f492b7d2d72367b7f4d64b2b9626d
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 0003550450575c5e5f565a7248760e44464e4879287f70352b7e186ab7b4636a
-      flags: 0
-    RecentlyUsedSceneGuid-2:
       value: 50080d005d0d5b09585b5b27447a0644404f41727e7922312c7d1f36b1b9646d
       flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
-      flags: 0
-    RecentlyUsedSceneGuid-4:
+    RecentlyUsedSceneGuid-1:
       value: 56090d0550030d5d59570e27127b0f44174f1d7c7e2e77362b2d486bb3b26d6b
       flags: 0
-    RecentlyUsedSceneGuid-5:
+    RecentlyUsedSceneGuid-2:
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
       flags: 0
-    RecentlyUsedSceneGuid-6:
+    RecentlyUsedSceneGuid-3:
       value: 5a52025503065a0d5c59547743770f441315407e747075667c7e4f61b3b46c6e
       flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 0150030250030b0d5e58582315755c44414f4d7a2f2971312f781b61b1b4373d
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5604075254045909595d0a2048700844144e482c797c766979701f61b6e5626c
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
     RecentlyUsedSceneGuid-7:
-      value: 55575151550c5d5e5d0d5c2745220b44434e4c7b7f71736079281b61b1b63268
+      value: 060300515c53080e585a087a47255c44424e19732d2e7434752d4963e4e36139
       flags: 0
     RecentlyUsedSceneGuid-8:
+      value: 55575151550c5d5e5d0d5c2745220b44434e4c7b7f71736079281b61b1b63268
+      flags: 0
+    RecentlyUsedSceneGuid-9:
       value: 560107535d0d085f5f0c0a2412200944154e1e732d2b75632c2d4f62bbe6603e
       flags: 0
     lightmappingBakingProfile:
