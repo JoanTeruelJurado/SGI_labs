@@ -11,24 +11,28 @@ public class VRHUDManager : MonoBehaviour
     [Header("Game Data")]
     public int puntos = 0;  // Aumenta esto desde otros scripts (ej: al recoger items)
 
-    private float tiempoInicio;
-    private float tiempoActual;
+    private float tiempo;
+
+    public void setScore(int number) {
+        puntos = number;
+        // Actualiza puntos
+        puntosText.text = "Puntos: " + puntos.ToString();
+    }
+
+    public void setTime(float time) {
+        tiempo = time;
+        string tiempoFormateado = FormatearTiempo(tiempo);
+        tiempoText.text = "Tiempo: " + tiempoFormateado;
+    }
 
     private void Awake()
     {
         // Inicia el tiempo al cargar la escena
-        tiempoInicio = Time.time;
+        tiempo = Time.time;
     }
 
     private void Update()
     {
-        // Actualiza tiempo
-        tiempoActual = Time.time - tiempoInicio;
-        string tiempoFormateado = FormatearTiempo(tiempoActual);
-        tiempoText.text = "Tiempo: " + tiempoFormateado;
-
-        // Actualiza puntos
-        puntosText.text = "Puntos: " + puntos.ToString();
     }
 
     private string FormatearTiempo(float totalSegundos)
@@ -57,7 +61,7 @@ public class VRHUDManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        tiempoInicio = Time.time;
+        tiempo = Time.time;
         puntos = 0;
     }
 }

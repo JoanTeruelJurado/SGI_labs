@@ -8,6 +8,7 @@ public class SliceObject : MonoBehaviour
     public VelocityEstimator velocityEstimator;
     public LayerMask sliceableLayer;
 
+    public AudioSource audio;
     public Material CrossSectionMaterial;
     public float cutForce = 2000.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -39,7 +40,9 @@ public class SliceObject : MonoBehaviour
 
             GameObject lowerHull = hull.CreateLowerHull(target, CrossSectionMaterial);
             SetupSlocedComponent(lowerHull, target.layer);
-
+            
+            if (GameController.Instance != null) GameController.Instance.addScore(100);
+            audio.Play();
             Destroy(target);
         }
     }
