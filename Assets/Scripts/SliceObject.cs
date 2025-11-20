@@ -58,7 +58,7 @@ public class SliceObject : MonoBehaviour
         MeshCollider collider = slicedObject.AddComponent<MeshCollider>();
         collider.convex = true;
         rb.AddExplosionForce(cutForce, slicedObject.transform.position, 1);
-        slicedObject.layer = layer;
+        //slicedObject.layer = layer;
         Destroy(slicedObject, 10);
     }
 }

@@ -19,13 +19,17 @@ public class GameController : MonoBehaviour
     [SerializeField] private float spawnInterval = 1.5f;        // Tiempo entre spawns
     [SerializeField] private VRHUDManager hudmanager;
     [SerializeField] private GameObject StartGamePanel;
+    [SerializeField] private GameObject FinnishGamePanel;
     [SerializeField] private GameObject SettingMenu;
+    [SerializeField] private AudioSource Finnishaudio;
+    [SerializeField] private TextMeshProUGUI Finnishmsg;
 
     private bool menuopen = false; 
     private int score = 0;
     private float timer = 0f;
     private bool gameStarted = false; // Control de inicio
     private InputAction bButtonAction;
+    private string PlayerName = "";
 
     void Awake()
     {
@@ -62,7 +66,11 @@ public class GameController : MonoBehaviour
         SceneManager.LoadScene(TutorialScene);
     }
 
-    void toggleMenu() {
+    public void setPlayerName(string name) {
+        PlayerName = name;
+    }
+
+    void toggleMenu() { 
         if (menuopen) {
             SettingMenu.SetActive(false);
             menuopen = false;
@@ -80,6 +88,8 @@ public class GameController : MonoBehaviour
             timer += Time.deltaTime;
             SetTimer(timer);
         }
+
+        if (timer >= 20.0f) StopGame();
     }
 
     // =============================
@@ -109,10 +119,22 @@ public class GameController : MonoBehaviour
         gameStarted = false;
         CancelInvoke(nameof(SpawnFruit));
 
-        if (StartGamePanel != null)
-            StartGamePanel.SetActive(true);
+        if (FinnishGamePanel != null) {
+            FinnishGamePanel.SetActive(true);
+            Finnishaudio.Play();
+            Finnishmsg.text = "Congratulations you scored: " + score.ToString();
+        }
 
         Debug.Log("Juego detenido.");
+    }
+
+    public void RestartGame() {
+        FinnishGamePanel.SetActive(false);
+        StartGamePanel.SetActive(true);
+        timer = 0f;
+        score = 0;
+        SetTimer(0.0f);
+        setScore(0);
     }
 
     // =============================
@@ -131,6 +153,21 @@ public class GameController : MonoBehaviour
     public void setScore(int number) {
         score = number;
         hudmanager.setScore(score);
+    }
+
+    public void SetDifficulty(int number) {
+        switch(number){
+            case 0: //EASY
+                spawnInterval = 1.5f;
+                break;
+            case 1: //Normal
+                spawnInterval = 1.25f;
+                break;
+            case 2: //Hard
+                spawnInterval = 1.0f;
+                break;
+            default: break;
+        }
     }
 
     public void addScore(int number) {
